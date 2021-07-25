@@ -304,7 +304,7 @@ a[x-apple-data-detectors='true'] {
     $mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
 
     $mail->send();
-    echo"<script>self.close()</script>";
+  
 } 
     
 
